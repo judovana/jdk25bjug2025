@@ -9,9 +9,9 @@ You can view them directly via [http://raw.githack.com](https://rawcdn.githack.c
 By [judovana](https://github.com/judovana) (language/vm changes) , [andrlos](https://github.com/andrlos) (jfr/crypto) and [karm](https://github.com/karm) (AOT) from IBM's OpenJDK team.
 Wednesday, 17th September 2025, JUG meetup in https://impacthub.cz/brno/
 
+Most interesting are for sure the demos. Each JEP have one: https://github.com/judovana/jdk25bjug2025/tree/main/jdk25bjug-demos <br/>
 AOT demos available at: https://github.com/Karm/Sep2025-BRQ-JUG-Leyden/tree/main
 
-Most interesting are for sure the demos. Each JEP have one: https://github.com/judovana/jdk25bjug2025/tree/main/jdk25bjug-demos
 ### weakpoint format
 Presentation written for https://github.com/tisnik/vim-weakpoint?tab=readme-ov-file#magic-command<br>
 Dont forget to follow https://github.com/tisnik/vim-weakpoint?tab=readme-ov-file#installation steps
